@@ -1,5 +1,6 @@
 # An-Effective-Way-to-Classify-Complex-Pattern
-SVM and MLP to Classify Complex Pattern
+
+The spiral and half moons task is a well-known benchmark for binary classification. The data consist of points on two intertwined spirals or half moons which cannot be linearly separated. This notebook reviews how this task have significantly inspired the development of several important methods in the history of Support Vector Machine and Multilayer Perceptron(MLP)
 
 Notebook index:::
 1. Problem Statement/Task/Abstract
